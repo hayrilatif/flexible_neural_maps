@@ -1,2 +1,3 @@
 # flexible_neural_maps
-Tools for easily creating flexible and powerful neural maps.
+Tools to easily create powerful neural maps.
+
